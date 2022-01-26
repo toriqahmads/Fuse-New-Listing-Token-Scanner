@@ -197,7 +197,7 @@ const processPair = async (from, token0, token1, pair) => {
         pair_name: `${token0_detail.symbol}/${token1_detail.symbol}`,
         address: pair,
         token0_balance: parseFloat(balance_liquidity_token0).toLocaleString('en-US', { maximumFractionDigits: 8 }),
-        token1_balace: parseFloat(balance_liquidity_token1).toLocaleString('en-US', { maximumFractionDigits: 8 })
+        token1_balance: parseFloat(balance_liquidity_token1).toLocaleString('en-US', { maximumFractionDigits: 8 })
       }
     }
 
