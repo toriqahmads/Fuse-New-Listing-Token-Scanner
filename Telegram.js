@@ -38,12 +38,12 @@ let message = `
 
 PAIR INFO
 =================
-NAME: ${data.pair_name}
+NAME: ${data.pair.pair_name}
 ADDRESS: \`\`\`${data.pair.address}\`\`\`
 TOKEN 1 LIQUIDITY: ${data.pair.token0_balance}
 TOKEN 2 LIQUIDITY: ${data.pair.token1_balance}
 =================
-[🔎EXPLORE](${setting.fuse_explorer}/address/${data.pair.address}/contracts) | [📈TRADE](${data.from == 'Fuse Fi' ? setting.fuse_fi_swap : setting.elk_swap}?outputCurrency=${data.pair.address})
+[🔎EXPLORE](${setting.fuse_explorer}/address/${data.pair.address}/contracts) | [📈TRADE](${data.from == 'Fuse Fi' ? setting.fuse_fi_swap : setting.elk_swap}?outputCurrency=${data.token1.address})
 
 TOKEN 1 INFO
 =================
