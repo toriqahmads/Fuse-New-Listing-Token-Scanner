@@ -51,7 +51,7 @@ NAME: ${data.token0.detail.name}
 ADDRESS: \`\`\`${data.token0.address}\`\`\`
 SYMBOL: ${data.token0.detail.symbol}
 DECIMAL: ${data.token0.detail.decimals}
-TOTAL SUPPLY: ${data.token1.detail.total_supply}
+TOTAL SUPPLY: ${data.token0.detail.total_supply}
 OWNER: ${data.token0.detail.owner}
 =================
 [🔎EXPLORE](${setting.fuse_explorer}/address/${data.token0.address}/contracts)
