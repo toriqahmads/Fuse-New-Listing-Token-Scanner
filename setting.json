@@ -1,0 +1,15 @@
+{
+  "fuse_fi_factory_address": "0x1d1f1A7280D67246665Bb196F38553b469294f3a",
+  "elk_factory_address": "0x779407e40Dad9D70Ba5ADc30E45cC3494ec71ad2",
+  "burn_address": "0x000000000000000000000000000000000000dEaD",
+  "zero_address": "0x0000000000000000000000000000000000000000",
+  "ws_rpc_node": "wss://fuse.getblock.io/mainnet/?api_key=248c337a-c539-4d96-a282-5e7069820f2f",
+  "http_rpc_node": "https://rpc.fuse.io",
+  "fuse_explorer": "https://explorer.fuse.io",
+  "fuse_fi_swap": "https://app.voltage.finance/index.html#/swap",
+  "elk_swap": "https://app.elk.finance/#/swap",
+  "telegram_api": "https://api.telegram.org/",
+  "telegram_bot_token": "5012449788:AAHITOLu3DtsZ1yl1OQVSU6j36nKYnEIhZ4",
+  "chat_id_target": "@fusenewtoken",
+  "chat_id": "-1001297521092"
+}
