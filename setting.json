@@ -9,7 +9,7 @@
   "fuse_fi_swap": "https://app.voltage.finance/index.html#/swap",
   "elk_swap": "https://app.elk.finance/#/swap",
   "telegram_api": "https://api.telegram.org/",
-  "telegram_bot_token": "5012449788:AAHITOLu3DtsZ1yl1OQVSU6j36nKYnEIhZ4",
+  "telegram_bot_token": "",
   "chat_id_target": "@fusenewtoken",
   "chat_id": "-1001297521092"
 }
